@@ -1,7 +1,0 @@
-{
-  "title": "My Wiki",
-  "navigation": "./nav.md",
-  "footer": "./footer.md",
-  "defaultPage": "intro",
-  "tableOfContents": true
-}

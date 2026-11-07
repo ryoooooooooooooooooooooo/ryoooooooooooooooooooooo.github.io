@@ -1,3 +1,0 @@
-- Getting Started
-  - [Introduction](?page=intro)
-  - [Guide](?page=guide)
