@@ -1,2 +1,2 @@
-[bio](about.md)
+[About](about.md)
 
